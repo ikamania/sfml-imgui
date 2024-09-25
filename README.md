@@ -1,3 +1,3 @@
 # sfml-imgui
 
-![screenshot](https://github.com/ikamania/sfml-imgui/blob/e71128043494671b3d484ac7ff4fb9a79cd98cf0/bin/design.mp4)
+![image](https://github.com/ikamania/sfml-imgui/blob/447b31e8f2f1993dc93c388c7dd9fe313c14f0f2/bin/design.png)
